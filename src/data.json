@@ -1,0 +1,12 @@
+{
+    "moviesData":[
+        {"name":"The Witcher","about":"The witcher Geralt, a mutated monster hunter, struggles to find his place in a world in which people often prove more wicked than beasts.", "type":"Adventure, Action, Drama", "director":"Beau DeMayo", "duration":"7h 46m",
+        "imageSrc":"https://ntvb.tmsimg.com/assets/p17580186_b_h8_ak.jpg?w=960&h=540","year":"2019"},
+        {"name":"Extraction","about":"While battling his own demons, Tyler, a ruthless mercenary, accepts the offer of rescuing an Indian crime lord's teenage son from Bangladesh. However, when he arrives, a gruesome blood bath ensues.", "type":"Adventure, Action", "director":"Sam Hargrave", "duration":"1h 56m",
+        "imageSrc":"https://woottoncommonsense.com/wp-content/uploads/2020/12/RgOWIjNBqW2ASCmQ3wuGb5GAYnDSRHd1EMipCwJI.jpeg","year":"2020"},
+        {"name":"Stranger Things","about":"In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.", "type":"Science fiction; Horror; Mystery; Drama", "director":"The Duffer Brothers", "duration":"8h 35m",
+        "imageSrc":"https://assets.teenvogue.com/photos/6436c21b4ea1fdd79f2d6c94/16:9/w_1280,c_limit/StrangerThings_S3_Illustrated_Vertical_FINAL_RGB_Digital__EN.jpg","year":"2016"},
+        {"name":"The Boys","about":"Superheroes are often as popular as celebrities, as influential as politicians, and sometimes even as revered as gods. But that's when they're using their powers for good. What happens when the heroes go rogue and start abusing their powers? When it's the powerless against the super powerful, the Boys head out on a heroic quest to expose the truth about the Seven and Vought, the multibillion-dollar conglomerate that manages the superheroes and covers up their dirty secrets. Based on the comic book series of the same name.", "type":"Action; Black comedy; Drama; Satire; Superhero", "director":"Dan Trachtenberg", "duration":"7h 45m",
+        "imageSrc":"https://images.thedirect.com/media/article_full/the-boys-season-4-spin-off.jpg","year":"2019"}
+    ]
+}

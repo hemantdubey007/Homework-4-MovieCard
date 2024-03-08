@@ -1,0 +1,90 @@
+.container{
+    box-shadow: 10px 10px 10px 12px rgba(252, 4, 4, 0.151);
+    padding: 2rem;
+    margin: 2rem 8rem;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    background-color: black;
+    color: rgba(255, 255, 255, 0.966);
+}
+
+.name{
+    font-size: 40px;
+}
+.images{
+    width: 50%;
+}
+
+.images img{
+    height: 100%;
+    width: 100%;
+}
+
+.details{
+    background-color: black;
+    width: 80%;
+    line-height: 1rem;
+    font-size: 16px;
+}
+
+.name{
+    background-color: black;
+    text-decoration: underline;
+}
+
+.details p{
+    background-color: black;
+}
+
+.time{
+    border: 3px solid rgb(104, 0, 0);
+    padding: 3px;
+    width: 3.4rem;
+    border-radius: 3px;
+    background-color: black;
+}
+
+.about{
+    line-height: 1.5rem;
+    background-color: black;
+    
+}
+
+.icons{
+    display: flex;
+    gap: 2rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    height: 20px;
+    width: 20px;
+    color: #000000;
+}
+
+.icon{
+    cursor: pointer;
+    background-color: black;
+    
+}
+
+.icon:hover{
+    color: red;
+}
+
+@media screen and (max-width:949.5px) {
+    .container{
+        flex-direction: column;
+    }
+
+    .details{
+        width: 100%;
+        
+    }
+}
+
+@media screen and (max-width:610.5px){
+    .image{
+        width: 40%;
+    }
+}
